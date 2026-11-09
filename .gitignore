@@ -1,0 +1,6 @@
+_extract/
+_docxbuild/
+*.docx
+docs/lab4/*ОТЧЕТ*
+docs/lab4/*отчет*
+docs/lab4/*report*
